@@ -1,3 +1,10 @@
+# 1.0.0 (2022-03-29)
+
+
+### Features
+
+* create base of the feature ([f23ef95](https://github.com/OpenSourceUnityPackage/AxialSymmetryTerrain/commit/f23ef959e4a40e6cfba51036cdeb87f5a4068f96))
+
 # Changelog
 All notable changes to this project will be documented in this file.
 
