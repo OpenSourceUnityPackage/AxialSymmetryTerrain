@@ -24,8 +24,19 @@
 Terrain symmetry allow you to apply basic axial symmetry to a scene with a terrain.
 This feature allows you to create half of the terrain and generate the second part thanks to axial symmetry (useful in terms of game design).
 
-1: Create scene with your terrain (not wrapped in game object). This scene is the half of the map, so if you add camera, it will be duplicate.
-2: Create new scene and add in game object the script "AxialSymmetryTerrain".
-3: Click on open and select your map.
-4: Choose the type of symmetry that you want and then click on export to export the complete map. (you can editor half map in this scene)
-5: Tadam ! Your map is complete and ready to be use
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/55276408/160634370-b8c2efd4-02e8-46b7-8323-772c02151dd1.png" alt="image" />
+</p>
+
+- 1: Create scene with your terrain (not wrapped in game object). This scene is the half of the map, so if you add camera, it will be duplicate.
+- 2: Create new scene and add in game object the script "AxialSymmetryTerrain".
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/55276408/160634470-7398405e-b0c0-49a9-b35b-c030608964ed.png" alt="image" />
+</p>
+
+- 3: Click on open and select your map.
+- 4: Choose the type of symmetry that you want and then click on export to export the complete map. (you can editor half map in this scene)
+- 5: Tada ! Your map is complete and ready to be use 🎉
+
+
