@@ -1,0 +1,10 @@
+{
+	"name": "open-source-unity-package.axial-symmetry-terrain.Editor",
+	"references": [
+		"open-source-unity-package.axial-symmetry-terrain.Runtime"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": []
+}

@@ -1,7 +1,7 @@
 {
-  "name": "[YourCompany].[YourPackageName].Tests",
+  "name": "open-source-unity-package.axial-symmetry-terrain.Tests",
   "references": [
-    "[YourCompany].[YourPackageName].Runtime"
+    "open-source-unity-package.axial-symmetry-terrain.Runtime"
   ],
   "optionalUnityReferences": [
     "TestAssemblies"

@@ -1,0 +1,12 @@
+{
+  "name": "open-source-unity-package.axial-symmetry-terrain.Editor.Tests",
+  "references": [
+    "open-source-unity-package.axial-symmetry-terrain.Editor",
+    "open-source-unity-package.axial-symmetry-terrain.Runtime"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
